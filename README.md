@@ -21,6 +21,7 @@ Music made by Arduino and Piezo Passive Buzzer.
 	 - **2** x [Male to Fermale Jump Wires](https://en.wikipedia.org/wiki/Jump_wire)
 	 - [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 	 - Download and load the "LegendOfZeldaMainTheme.ino" file
+	 - Connect the Buzzer - Using GND port and 8
 
 
 ----------
