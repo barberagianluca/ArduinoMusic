@@ -13,16 +13,17 @@ Music made by Arduino and Piezo Passive Buzzer.
 
 ----------
 
-**Materials**
+**Materials and Usage**
 -------------
-
- - For "Legend of Zelda" Arduino project:
+ - Materials for all tracks in project:
 	 - [Arduino](https://en.wikipedia.org/wiki/Arduino) - Tested on Mega 2560
 	 - [Piezo Passive Buzzer](https://en.wikipedia.org/wiki/Buzzer#Piezoelectric_2)
 	 - **2** x [Male to Fermale Jump Wires](https://en.wikipedia.org/wiki/Jump_wire)
 	 - [Arduino IDE](https://www.arduino.cc/en/Main/Software)
-	 - Download and load the "LegendOfZeldaMainTheme.ino" file
-	 - Connect the Buzzer - Using GND port and 8
+	 - Connect the Buzzer - Using GND port and 8 (Detailed instructions [here](https://www.arduino.cc/en/Tutorial/toneMelody))
+	 
+ - For "Legend of Zelda" Arduino project:
+	 - Download and load the "LegendOfZeldaMainTheme.ino" file.
 
 
 ----------
